@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Renapurkar</h1>
 <h3 align="center">A passionate web developer and data science enthusiast</h3>
 
-- 🔭 I’m currently learning on **Javascript**
+- 🔭 I’m currently learning **Javascript**
 
 - 🌱 I’m currently learning **Data science using python**
 
