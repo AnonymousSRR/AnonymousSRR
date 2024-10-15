@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **Javascript**
 
-- 🌱 I’m currently interested in  **Full stack development**
+- 🌱 I’m interested in  **Full stack development**
 
 - 💬 Ask me about **Python, JAVA, Django, Data Science**
 
