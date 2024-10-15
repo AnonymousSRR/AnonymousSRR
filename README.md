@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently learning **Javascript**
 
-- 🌱 I’m currently learning **Data science using python**
+- 🌱 I’m currently interested in  **Full stack development**
 
-- 💬 Ask me about **Python, Django, Data Science**
+- 💬 Ask me about **Python, JAVA, Django, Data Science**
 
-- 📫 How to reach me **sahilrenapurkar710@gmail.com**
+- 📫 How to reach me **sahil.renapurkar.official@gmail.com**
 
 - ⚡ Fun fact **I think I have a good sense of humor**
 
